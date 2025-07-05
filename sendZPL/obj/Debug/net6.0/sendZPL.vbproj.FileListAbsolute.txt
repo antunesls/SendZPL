@@ -1,0 +1,14 @@
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\bin\Debug\net6.0\sendZPL.exe
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\bin\Debug\net6.0\sendZPL.deps.json
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\bin\Debug\net6.0\sendZPL.runtimeconfig.json
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\bin\Debug\net6.0\sendZPL.dll
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\bin\Debug\net6.0\sendZPL.pdb
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\sendZPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\sendZPL.AssemblyInfoInputs.cache
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\sendZPL.AssemblyInfo.vb
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\sendZPL.vbproj.CoreCompileInputs.cache
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\sendZPL.dll
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\refint\sendZPL.dll
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\sendZPL.pdb
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\sendZPL.genruntimeconfig.cache
+C:\Users\lukss\projetos\SendZPL\sendZPL\sendZPL\obj\Debug\net6.0\ref\sendZPL.dll
